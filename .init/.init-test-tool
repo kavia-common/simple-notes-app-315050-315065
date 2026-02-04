@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-notes-app-315050-315065/notes_backend"
+}
